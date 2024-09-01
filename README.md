@@ -25,10 +25,10 @@ a better understanding of the problems you encountered during the development of
 **Note:** Commits behind this fork could be automatically synced, meaning that changes made in the template are pushed into your repo. Please do not discard commits ahead (these are the updates you make to this repository).
 
 ## Project Team
-- *Mentor's Name*  - *Company Affliation* - Mentor
-- *Technical Advisor Name* - *Company Affliation* - Technical Advisor
+- *Rachita Sowle*  - *CS* - Faculty Advisor
+- *Mahesh Nair* - Sponsor
 - *Faculty Advisor's Name* - *Department* - Faculty Advisor
-- *Student's Name* - *major* - Student Team Member
-- *Student's Name* - *major* - Student Team Member
-- *Student's Name* - *major* - Student Team Member
-- *Student's Name* - *major* - Student Team Member
+- *Brian Vo* - *CS* - Student Team Member
+- *Parker Gonzaga* - *CS* - Student Team Member
+- *Del Huband* - *CS* - Student Team Member
+- *Alex Nguyen* - *CS* - Student Team Member
