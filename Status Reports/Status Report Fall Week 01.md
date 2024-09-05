@@ -11,7 +11,7 @@
    - Email Faculty by Del
    - Team contract by Everyone
    - Email Sponsor By Brian Vo
-   - Check / Turn in submission by _ 
+   - Check / Turn in submission by Parker / Alex
 
 ## 2) Milestones to be completed next week ##
    - Submission of team contract
