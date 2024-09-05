@@ -23,6 +23,7 @@ a better understanding of the problems you encountered during the development of
 ## Project Team
 - *Rachita Sowle*  - *CS* - Faculty Advisor
 - *Mahesh Nair* - Sponsor
+- *Derrick Murry* - Sponsor
 - *Brian Vo* - *CS* - Student Team Member
 - *Parker Gonzaga* - *CS* - Student Team Member
 - *Del Huband* - *CS* - Student Team Member
