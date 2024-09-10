@@ -12,7 +12,7 @@
    - Added sponsors / faculty to repo
 
 ## 2) Milestones to be completed next week ##
-   - Start brainstorming ideas
+   - Start thinking about the project and what we need
 
 ## 3) Issues, problems or concerns ##
    - None
