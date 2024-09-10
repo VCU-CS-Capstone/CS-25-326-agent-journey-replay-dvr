@@ -11,11 +11,11 @@
    - Email Faculty by Del
    - Team contract completed by Everyone
    - Email Sponsor By Brian Vo
-   - Check / Turn in submission by Alex / Parker 
+   - Check / Turn in submission of repo by Alex / Parker 
    - Met with sponsor
 
 ## 2) Milestones to be completed next week ##
-   - Submission of repo set up
+   - Meet with faculty
 
 ## 3) Issues, problems or concerns ##
    - Figuring out requirements
