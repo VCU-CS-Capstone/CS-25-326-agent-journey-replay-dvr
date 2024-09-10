@@ -7,15 +7,18 @@
 **Faculty Advisor:Rachita Sowle**
 
 ## 1) Accomplishments this week ##
-   - Team bids
-   - Introductions with team
+   - Repo made by Brian Vo
+   - Email Faculty by Del
+   - Team contract completed by Everyone
+   - Email Sponsor By Brian Vo
+   - Check / Turn in submission by Alex / Parker 
+   - Met with sponsor
 
 ## 2) Milestones to be completed next week ##
-   - Work on team contract
-   - Figure out group meeting times
+   - Submission of repo set up
 
 ## 3) Issues, problems or concerns ##
-   - None
+   - Figuring out requirements
    
 
 

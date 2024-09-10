@@ -7,15 +7,17 @@
 **Faculty Advisor:Rachita Sowle**
 
 ## 1) Accomplishments this week ##
-   - Team bids
-   - Introductions with team
+   - Meet with team
+   - Work on team contract 
+   - Contact sponsor
+   - Contact faculty  
 
 ## 2) Milestones to be completed next week ##
-   - Work on team contract
-   - Figure out group meeting times
+   - Submission of team contract
+   - Work on setting up repo
 
 ## 3) Issues, problems or concerns ##
-   - None
+   - Figuring out time slots to meet with sponsor/faculty
    
 
 
