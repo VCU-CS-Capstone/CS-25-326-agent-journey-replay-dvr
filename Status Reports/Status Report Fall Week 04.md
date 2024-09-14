@@ -10,9 +10,11 @@
    - Met up with faculty member
    - Undestand / figure out requirements
    - Added sponsors / faculty to repo
+   - Met up with sponsors / faculty to understand requirement
 
 ## 2) Milestones to be completed next week ##
    - Start thinking about the project and what we need
+   - Website ideas etc.
 
 ## 3) Issues, problems or concerns ##
    - None

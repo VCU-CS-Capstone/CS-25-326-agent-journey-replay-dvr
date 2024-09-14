@@ -14,7 +14,7 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Week 1 Status Report 8/18 | Finish Team biddings | Meet with team | No problems to report! |
 | Week 2 Status Report 8/25 | Meet up as a group to start discsussing a schedule | Worked on team contract | No problems! |
 | Week 3 Status Report 9/1 | Schedule With Faculty / Sponsor | Finished Team Contract / Repo done / Met with sponsor | No problems! |
-| Week 4 Status Report 9/8 | Make sure repo assignment submitted / Understand requirement | Met with faculty / Added sponsor, faculty to repo | No problems! |
+| Week 4 Status Report 9/8 | Make sure repo assignment submitted / Understand requirement | Met with faculty / Added sponsor, faculty to repo / met with sponsors| No problems! |
 | Week 5 Status Report | | | |
 | Week 6 Status Report | | | |
 | Week 7 Status Report | | | |
