@@ -1,10 +1,10 @@
 # *CS 25-XXX Project Name*
 
-**Students' Names:**
+**Students' Names:Brian Vo, Parker Gonzaga, Alex Nguyen, Del Huband**
 
-**Mentor:**
+**Mentor:Mahesh Nair**
 
-**Faculty Advisor:**
+**Faculty Advisor:Rachita Sowle**
 
 ## 1) Accomplishments this week ##
    - Found a website to potentially use for click streams
