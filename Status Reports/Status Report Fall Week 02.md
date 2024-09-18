@@ -2,7 +2,7 @@
 
 **Students' Names:Brian Vo, Parker Gonzaga, Alex Nguyen, Del Huband**
 
-**Mentor:Mahesh Nair**
+**Mentor:Mahesh Nai, Derrick Murry, Lily Roark**
 
 **Faculty Advisor:Rachita Sowle**
 
