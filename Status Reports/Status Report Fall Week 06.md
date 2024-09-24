@@ -7,16 +7,17 @@
 **Faculty Advisor:Rachita Sowle**
 
 ## 1) Accomplishments this week ##
-   - Found a website to potentially use for click streams
-   - Looked into google analytics
-   - Looked into playwright
+   - Looked at the project proposal
+   - Priorities on which section to focus on
+   - 
 
 ## 2) Milestones to be completed next week ##
-   - meet up sponsor / faculty
-   - start thinking about proposal 
+   - Be close to finishing up our proposal
+   - Finish our slides for our presentation
 
 ## 3) Issues, problems or concerns ##
-   - Look more in depth on google analytics and gathering click stream
+   - Questions about the demo
    
+
 
 
