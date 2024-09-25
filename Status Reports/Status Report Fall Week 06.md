@@ -9,7 +9,8 @@
 ## 1) Accomplishments this week ##
    - Looked at the project proposal
    - Priorities on which section to focus on
-   - 
+   - Worked on deliverables
+
 
 ## 2) Milestones to be completed next week ##
    - Be close to finishing up our proposal
