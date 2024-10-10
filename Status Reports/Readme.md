@@ -17,8 +17,8 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Week 4 Status Report 9/8 | Make sure repo assignment submitted / Understand requirement | Met with faculty / Added sponsor, faculty to repo / met with sponsors| No problems! |
 | Week 5 Status Report 9/15 | Look into websites, research google analytics, look into playwright, meet with faculty, sponsor | Found a potential website, google analytics seems like a viable option | Finding more information about google analytics and click streams |
 | Week 6 Status Report 9/22 | Start to work on project proposal, focusing on deliverables | Discussed how the work is going to be spread out and our future goals | Demo question for our presentation |
-| Week 7 Status Report | | | |
-| Week 8 Status Report | | | |
+| Week 7 Status Report 9/29 | Get ready for the presentation | Presented to Capital One employees | None |
+| Week 8 Status Report 10/6 | Submit the proposal | Met up with sponsor/faculty to go over our proposal and receive feedback | None |
 | Week 9 Status Report | | | |
 | Week 10 Status Report | | | |
 | Week 11 Status Report | | | |
