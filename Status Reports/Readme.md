@@ -19,8 +19,8 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Week 6 Status Report 9/22 | Start to work on project proposal, focusing on deliverables | Discussed how the work is going to be spread out and our future goals | Demo question for our presentation |
 | Week 7 Status Report 9/29 | Get ready for the presentation | Presented to Capital One employees | None |
 | Week 8 Status Report 10/6 | Submit the proposal | Met up with sponsor/faculty to go over our proposal and receive feedback | None |
-| Week 9 Status Report 10/13 | Host website | Met up and viewed our options | Open source website is made up of a lot of parts hard to hosrt on something like github pages |
-| Week 10 Status Report | | | |
+| Week 9 Status Report 10/13 | Host website | Met up and viewed our options | Open source website is made up of a lot of parts hard to host on something like github pages |
+| Week 10 Status Report 10/20 | Meet / discuss with other group | Decide on hour hosting platform | Our initial open source was a little too complicated |
 | Week 11 Status Report | | | |
 | Week 12 Status Report | | | |
 | Week 13 Status Report | | | |

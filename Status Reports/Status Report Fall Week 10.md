@@ -8,14 +8,14 @@
 
 ## 1) Accomplishments this week ##
    - Finish hosting our website
-   - Get google analytics with our hosting option
+
 
 
 ## 2) Milestones to be completed next week ##
-   - Meet other group
+   - Look into turning google analytics into something readable
 
 ## 3) Issues, problems or concerns ##
-   - Hosting the open source github repo isn't as easy it's not just a simple html file
+   - none so far, maybe paying off the hosting service
 
 
 
