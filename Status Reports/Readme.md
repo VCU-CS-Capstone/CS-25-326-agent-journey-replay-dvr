@@ -21,8 +21,8 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Week 8 Status Report 10/6 | Submit the proposal | Met up with sponsor/faculty to go over our proposal and receive feedback | None |
 | Week 9 Status Report 10/13 | Host website | Met up and viewed our options | Open source website is made up of a lot of parts hard to host on something like github pages |
 | Week 10 Status Report 10/20 | Meet / discuss with other group | Decide on hour hosting platform | Our initial open source was a little too complicated |
-| Week 11 Status Report | | | |
-| Week 12 Status Report | | | |
+| Week 11 Status Report 10/27 | Think about / discuss our poster | Updated website | Clickstream issues |
+| Week 12 Status Report 11/3 | Finish up the poster | Poster completed / added bigquery data | Testing our bigquery / website update and google analytics issue |
 | Week 13 Status Report | | | |
 | Week 14 Status Report | | | |
 | Week 15 Status Report | | | |
