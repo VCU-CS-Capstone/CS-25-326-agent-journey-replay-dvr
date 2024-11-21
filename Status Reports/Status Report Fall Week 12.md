@@ -7,13 +7,15 @@
 **Faculty Advisor:Rachita Sowle**
 
 ## 1) Accomplishments this week ##
-   - Add to our website
-   - Finish poster
+   - Added pages to website and add polish
+   - Finished poster
 
 ## 2) Milestones to be completed next week ##
-   - Have something code related for our sponsors
+   - Begin working on program to get data off Google Analytics
+   - Work on program to replay session data via Playwright
+
 ## 3) Issues, problems or concerns ##
-   - none so far
+   - None
 
 
 
