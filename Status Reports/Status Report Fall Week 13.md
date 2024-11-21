@@ -8,11 +8,12 @@
 
 ## 1) Accomplishments this week ##
    - Submit poster
+   - GoogleAnalytic data reader program started
 
 ## 2) Milestones to be completed next week ##
-   - Start on connecting tweak and playwright
+   - Start on connecting GoogleAnalytics to Playwright
 ## 3) Issues, problems or concerns ##
-   - sharing big query doesn't work as we though so far
+   - BigQuery sharing isn't working
 
 
 
