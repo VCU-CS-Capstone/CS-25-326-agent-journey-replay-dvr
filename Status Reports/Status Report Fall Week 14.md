@@ -11,6 +11,7 @@
    - Ask more about tweak or if we're on the same page
 ## 2) Milestones to be completed next week ##
    - Break is next week
+   - Work on connecting GoogleAnalytics data to Playwright program
 ## 3) Issues, problems or concerns ##
    - Is tweak necessary
 
