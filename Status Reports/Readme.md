@@ -24,7 +24,7 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Week 11 Status Report 10/27 | Think about / discuss our poster | Updated website | Clickstream issues |
 | Week 12 Status Report 11/3 | Finish up the poster | Poster completed / added bigquery data | Testing our bigquery / website update and google analytics issue |
 | Week 13 Status Report 11/10| Submit Poster / Work with big query data | Able to get big query data / submitted poster | Sharing the big query doesn't show data / Rescheduling meeting times |
-| Week 14 Status Report | | | |
+| Week 14 Status Report 11 /17 | Work on playwright and have work that can be given feedback | Have a working preview | Understanding what we're actually given and tweaks use |
 | Week 15 Status Report | | | |
 | Week 16 Status Report | | | |
 
