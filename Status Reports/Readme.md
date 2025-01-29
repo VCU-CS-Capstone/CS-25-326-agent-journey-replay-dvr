@@ -28,6 +28,9 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Week 15 Status Report 11/24 | FALL BREAK | | |
 | Week 16 Status Report  12/1 | FINALS | | |
 | Week 17 Status Report  1/11 | Connect clickstream and playwright | Website moved to azure | Clarification questions  |
+| Week 18 Status Report  1/18 | Prepare for Capital One Meetup | Meetup with members / create presentation / discuss actions | None |
+| Week 19 Status Report  1/25 | Go to the Meetup and show our demo | Next steps of project | None  |
+
 
 ## Spring Semester
 
