@@ -30,6 +30,12 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Week 17 Status Report  1/11 | Connect clickstream and playwright | Website moved to azure | Clarification questions  |
 | Week 18 Status Report  1/18 | Prepare for Capital One Meetup | Meetup with members / create presentation / discuss actions | None |
 | Week 19 Status Report  1/25 | Go to the Meetup and show our demo | Next steps of project | None  |
+| Week 20 Status Report  2/1 | Start working on the project | Did the presentation | API stuff  |
+| Week 21 Status Report  2/8 | Add APIS | Working on database / connecting to it | How to implement a tweak implementation / process of fetching mock/dummy data |
+| Week 22 Status Report  2/15 | Add login / work on API stuff | API route added | API questions |
+
+
+
 
 
 ## Spring Semester
