@@ -45,11 +45,11 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Week 6 Status Report  2/15 | Add login / work on API stuff | API route added | API questions |
 | Week 7 Status Report  2/22 | Features | Assign new features to everyone | IP issues for DB |
 | Week 8 Status Report  3/1 | Midterms | N/A | N/A |
-| Week 9 Status Report | | | |
-| Week 10 Status Report | | | |
-| Week 11 Status Report | | | |
-| Week 12 Status Report | | | |
+| Week 9 Status Report 3/8 | SPRING BREAK | | |
+| Week 10 Status Report 3/15 | Work on poster / Abstract | Step-step features / other features added | N/A |
+| Week 11 Status Report 3/22 | Finish poster / abstract | submitted poster / abstract | N/A |
+| Week 12 Status Report 3/29 | More finishing features | | |
 | Week 13 Status Report | | | |
-| Week 14 Status Report | | | |
+| Week 14 Status Report | | | | 
 | Week 15 Status Report | | | |
 | Week 16 Status Report | | | |
