@@ -50,6 +50,6 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Week 11 Status Report 3/22 | Finish poster / abstract | submitted poster / abstract | N/A |
 | Week 12 Status Report 3/29 | More finishing features | Added new features | |
 | Week 13 Status Report 4/5 | Revise our step-step process | discussed ideas at the expo / try to implement process | Not sure how complex this could make our code now |
-| Week 14 Status Report | | | | 
-| Week 15 Status Report | | | |
+| Week 14 Status Report 4/19 | Get ready for expo | Click stream on the cloud / Went to expo | None | 
+| Week 15 Status Report 4/26| Putting code on github | Final submission | none |
 | Week 16 Status Report | | | |
