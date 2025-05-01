@@ -8,7 +8,8 @@ The **Agent Journey Replay (DVR)** project provides a tool to visualize an agent
 [Our test website](capitaloneagentdashboard.azurewebsites.net)
 
 This website updates automatically from this GitHub repo. We're adding the link here, we're not totally sure the effects of merging
-[Link to our website repo](https://github.com/bvo24/CapitalOneAgentDashboard)
+
+[Website repo](https://github.com/bvo24/CapitalOneAgentDashboard)
 
 The directory structure in this GitHub is to allow the project to have all its resources self-contained.
 Open Source software should not just be a repository of code.  There are a number of directories to help you and others who will 
