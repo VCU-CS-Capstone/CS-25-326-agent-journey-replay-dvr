@@ -2,8 +2,8 @@ const fs = require('fs');
 const { chromium } = require('playwright');
 const sql = require('mssql')
 
-//Default json path
 let jsonDataPath = 'test.json';
+
 
 // Azure SQL connection configuration
 const config = {
@@ -13,15 +13,17 @@ const config = {
   database: 'CapitalOne Database',
   options: {
     encrypt: true, 
-    trustServerCertificate: false 
+    trustServerCertificate: false
   }
 };
+
+
 
 function setJsonDataPath(newPath) {
   jsonDataPath = newPath;
 }
 
-function playbackFile() {
+function playbackFile(timeMult = 1) {
   fs.readFile(jsonDataPath, 'utf-8', async (err, data) => {
     if (err) {
       console.error('Error reading JSON file:', err);
@@ -29,7 +31,6 @@ function playbackFile() {
     }
 
     try {
-      
       const events = JSON.parse(data);
       const APICalls = await GetAPIData(events[0]);
       let curAPICall = 0;
@@ -54,7 +55,7 @@ function playbackFile() {
       for (const event of events) {
         console.log(`Processing event: ${event.event_name}`);
 
-        //Mock API call
+        // Mock API calls
         await page.route(/.*\/user\?first_name=.*/, async (route, request) => {
 
           let firstName = "TESTING";
@@ -75,11 +76,22 @@ function playbackFile() {
             { first_name: firstName, last_name:"TESTCASE", money: 1, credit: 1, gender: "Female"}
           ];
 
-          if (APIdata != null)
+          if (Array.isArray(APIdata) && APIdata.length > 0 && typeof APIdata[0] === 'object')
               {
-              mockResponse[0].credit = APIdata[0].credit;
-              mockResponse[0].money = APIdata[0].money;
-              mockResponse[0].gender = APIdata[0].gender;
+              const apiEntry = APIdata[0];
+              console.log(APIdata[0]);
+              if ('credit' in apiEntry)
+                  {
+                  mockResponse[0].credit = APIdata[0].credit;
+                  }
+              if ('money' in apiEntry)
+                  {
+                  mockResponse[0].money = APIdata[0].money;
+                  }
+              if ('gender' in apiEntry)
+                  {
+                  mockResponse[0].gender = APIdata[0].gender;
+                  }
               }
 
           // Fulfill the request with the mock data
@@ -88,6 +100,7 @@ function playbackFile() {
             contentType: 'application/json',
             body: JSON.stringify(mockResponse),
           });
+         //console.log("ROUTE FULFILLED!!!!");
         });
 
         // Extract parameters
@@ -119,7 +132,7 @@ function playbackFile() {
                       //console.log('Element found. Clicking:', elementIdParam);
                       lastClickedElementId = elementIdParam;
                       await page.click(`#${lastClickedElementId}`);
-                      await page.waitForTimeout(1000);
+                      await page.waitForTimeout(1000*timeMult);
                     } 
                     //button not found on page
                     else {
@@ -136,11 +149,11 @@ function playbackFile() {
               // Use the last clicked element's ID (from the previous click event)
               if (lastClickedElementId) {
                 // Generate a random letter from A to Z
-                const randomLetter = String.fromCharCode(65 + Math.floor(Math.random() * 26));
+                const randomLetter = String.fromCharCode(65 + Math.floor(Math.random() * 26)); // Random letter A-Z
                 // Type the random letter into the last clicked element
-                await page.type(`#${lastClickedElementId}`, randomLetter, { delay: 100 });
+                await page.type(`#${lastClickedElementId}`, randomLetter, { delay: 100 }); 
                 console.log(`Typed: ${randomLetter}`);
-                await page.waitForTimeout(400);
+                await page.waitForTimeout(400*timeMult);
               } else {
                 console.log('No previous click event found to get the element ID.');
               } 

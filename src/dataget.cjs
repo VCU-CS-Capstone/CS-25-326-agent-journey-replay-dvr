@@ -59,8 +59,17 @@ async function main() {
     usernameList = GetUserName(data);
     username = await GetUserInput("Please enter a username ID: ");
 
-    userList = GetAllUsers(data,usernameList[username]);
-    user = await GetUserInput("Please enter a user ID: ");
+    realUser = null;
+    realUser = validateUserName(usernameList,username);
+    while (realUser == null)
+        {
+        username = await GetUserInput("Username invalid. Please enter a username ID: ");
+        realUser = validateUserName(usernameList,username);
+        }
+    
+
+    userList = GetAllUsers(data,realUser);
+    user = await GetUserInput("Please enter a data stream ID: ");
     sessionList = GetAllSessions(data, userList[user]);
     session = await GetUserInput("Please enter a session ID: ");
     //GetAllEventsFromID(userList[user],sessionList[session]);
@@ -68,15 +77,25 @@ async function main() {
     
     //gets user input for whether to automate the playback or not
     manual = await GetUserInput("Would you like this playback to be automated? (Y/N)\n");
-    while (manual.toLowerCase() != "y" && manual.toLowerCase() != "n")
+    manwords = manual.split(" ")
+    while (manwords[0].toLowerCase() != "y" && manwords[0].toLowerCase() != "n")
         {
         manual = await GetUserInput("Would you like this playback to be automated? (Y/N)");
+        manwords = manual.split(" ")
         }
     
-    if (manual.toLowerCase() == "y")
+    if (manwords[0].toLowerCase() == "y")
         {
         setJsonDataPath(userDataPath);
-        playbackFile();
+        //console.log(manwords[1]);
+        if (!isNaN(manwords[1]))
+            {
+            playbackFile(parseInt(manwords[1]));
+            }
+        else
+            {
+            playbackFile();
+            }
         }
     else
         {
@@ -86,6 +105,28 @@ async function main() {
 }
 
 main(); // Call the async main function
+
+function validateUserName(userList, userInput)
+{
+if (isNaN(userInput)) //if username is direct search
+    {   
+    for (i = 0; i < userList.length; i++)
+        {
+        if (userInput == userList[i])
+            {
+            return userList[i];
+            }
+        }   
+    }
+else //if username is a number id
+    {
+    if (userInput >= 0 && userInput < userList.length)
+        {
+        return userList[userInput];
+        }
+    }
+return null;
+}
 
 function GetAllEventsFromID(data,userID, sessionID = null) {
     if (sessionID != null)
@@ -191,7 +232,7 @@ function GetAllUsers(data, username)
             finalUsers.push(user)
             }
         }
-    console.log("User List:\n");
+    console.log("Data Stream List:\n");
 
     for (let i = 0; i < finalUsers.length; i++) {
         timerange = GetTimeRange(data,finalUsers[i]);
